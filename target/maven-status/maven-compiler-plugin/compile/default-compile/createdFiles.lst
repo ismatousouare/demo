@@ -1,0 +1,6 @@
+com/test/demo/services/ProduitServiceImplements.class
+com/test/demo/repository/ProduitRepository.class
+com/test/demo/services/ProduitService.class
+com/test/demo/models/Produit.class
+com/test/demo/DemoApplication.class
+com/test/demo/controllers/ProduitController.class
